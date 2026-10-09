@@ -2,7 +2,7 @@
 
 A Halloween theme for the Potassium executor: pumpkin-orange accents, a warm plum palette, see-through panels and the Halloween login wallpaper behind the whole app.
 
-![Potassium with the Spooky theme: Start page and a script tab](screens.jpg)
+![Potassium with the Spooky theme: Start page and a script tab](ui.jpg)
 
 The wallpaper on its own: [`halloween.jpg`](halloween.jpg).
 
